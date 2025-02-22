@@ -17,3 +17,4 @@
 Spaces | Description
 :--: | :--:
 [JokeGeneratorApp](https://huggingface.co/spaces/xyizko/xo-JokeGen-NoAI) | Simple Joke Generator Gradio App, this app is for testing and learnin Gradio.
+[HFModelTester](https://huggingface.co/spaces/xyizko/HF_Model_Test) | Simple gradio app for testing HF models that are accessible via the HF Inference API
